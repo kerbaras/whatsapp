@@ -1,0 +1,26 @@
+{
+  "name": "whatsapp",
+  "version": "1.0.0",
+  "description": "a whatsapp desktop client",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matias-pierobon/whatsapp.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "electron",
+    "client",
+    "desktop",
+    "webwhatsapp"
+  ],
+  "author": "Matias Pierobon <matias.pierobonm@gmail.com> (https://matias-pierobon.github.io/)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/matias-pierobon/whatsapp/issues"
+  },
+  "homepage": "https://github.com/matias-pierobon/whatsapp#readme"
+}
